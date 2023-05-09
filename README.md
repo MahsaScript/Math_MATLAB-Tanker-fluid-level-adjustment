@@ -46,3 +46,5 @@ The liquid surface system in the complex industrial process has various system p
 
 
 In many cases, liquids are processed in tanks using chemicals or mixed treatments, but the level of liquids in the tanks must always be controlled and the flow between the tanks must be adjusted if it is not linear. Therefore, in this paper, a back-production (BP)-based neural network is used to control level 2 in tank 2 with a set point of 10 cm, and it can convert set point changes to a given set point of 8 cm in 225 seconds. Result of RBF Radial Basis Function Neural Network for Level 2 Control in Tank 2 Steady State Error = 0 cm, 0% Jump, Rise Time 49 Seconds, Settling Time 52 Seconds and can follow the set changes in 51 Seconds slow.
+
+#Matlab #NeuralNetwork #RBF
